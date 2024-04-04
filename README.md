@@ -15,3 +15,17 @@ DermAI is a machine learning project developed to predict skin diseases based on
 - TensorFlow/Keras
 - Streamlit
 - Jupter Notebook
+
+# What DermAI does:
+
+- Image Analysis: DermAI accepts input images of skin lesions or conditions, captured through various means such as smartphone cameras or digital cameras.
+
+- Predictive Modeling: The input images are processed through a pre-trained convolutional neural network (CNN) model. This model has been specifically trained on a diverse dataset of skin disease images to recognize patterns and features indicative of different skin conditions.
+
+- Disease Identification: Based on the analysis performed by the CNN model, DermAI identifies the potential skin disease or condition present in the input image. This can include a wide range of dermatological issues such as acne, eczema, psoriasis, melanoma, etc.
+
+- Solution Recommendations: After identifying the skin disease or condition, DermAI provides recommendations for further action. This may include suggesting over-the-counter treatments, advising a visit to a dermatologist for further evaluation, or providing general skincare advice.
+
+- Continuous Learning: DermAI may incorporate mechanisms for continuous learning and improvement. This could involve updating the model with new data to enhance its accuracy and expand its capabilities over time.
+
+Overall, DermAI aims to assist individuals in early detection and management of skin diseases by leveraging the power of machine learning and image recognition technology. By providing timely and accurate predictions, it helps users make informed decisions about their skin health and seek appropriate medical attention when necessary.
