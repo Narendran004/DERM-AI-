@@ -34,7 +34,7 @@ https://github.com/Vijay18003/DermAi/assets/158248736/fdcd7c7b-b452-425a-a137-31
 - Continuous Learning: DermAI may incorporate mechanisms for continuous learning and improvement. This could involve updating the model with new data to enhance its accuracy and expand its capabilities over time.
 
 Overall, DermAI aims to assist individuals in early detection and management of skin diseases by leveraging the power of machine learning and image recognition technology. By providing timely and accurate predictions, it helps users make informed decisions about their skin health and seek appropriate medical attention when necessary.
-# how DermAI works:
+# How DermAI works:
 
 - Data Collection and Preprocessing: DermAI starts by collecting a diverse dataset of skin disease images. This dataset includes images of various skin conditions such as acne, eczema, psoriasis, melanoma, etc. These images are labeled with their corresponding skin diseases for supervised learning. Before training the model, the images may undergo preprocessing steps like resizing, normalization, and augmentation to enhance the robustness and generalization of the model.
 
