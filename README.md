@@ -6,3 +6,5 @@
 # DermAI: Skin Disease Prediction and Solutions
 
 DermAI is a machine learning project developed to predict skin diseases based on input images and provide solutions for further action. This project utilizes a convolutional neural network (CNN) trained on a dataset of skin disease images to make predictions.
+
+# Demonstration of the Project
