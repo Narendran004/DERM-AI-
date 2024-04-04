@@ -16,6 +16,8 @@ DermAI is a machine learning project developed to predict skin diseases based on
 - TensorFlow/Keras
 - Streamlit
 - Jupter Notebook
+# Dataset
+-The dataset used for training the model is available on  [![Kaggle](https://img.shields.io/badge/Kaggle-%23000.svg?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/)
 
 # What DermAI does:
 
