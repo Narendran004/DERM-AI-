@@ -9,7 +9,7 @@ DermAI is a machine learning project developed to predict skin diseases based on
 
 # Demonstration of the Project
 <video width="640" height="360" controls>
-  <source src=" https://github.com/Vijay18003/DermAi/blob/main/DERM%20AI%20DEMO.mp4" type="video/mp4">
+  <source src="C:\Users\mukth\Downloads\DERM AI DEMO.mp4"  type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
