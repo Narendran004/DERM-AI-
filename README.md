@@ -52,5 +52,11 @@ Overall, DermAI aims to assist individuals in early detection and management of 
 
 Overall, DermAI leverages the power of machine learning and image recognition technology to assist individuals in early detection and management of skin diseases. By providing timely and accurate predictions, along with actionable recommendations, DermAI aims to empower users to take proactive steps towards maintaining their skin health.
 
+# Intel One Api
+Intel One Api had a great impact on our project by utilizing the services provided by them we were able to significantly reduce the execution and training time 
+of our ML model `cimta`.
+![d8fa6c72-f88a-4111-bd30-b40698151150](https://github.com/t-aswath/mdeditor/assets/119417646/01dbaa20-3499-4c71-bc01-c48b71ae2b79)
+![536dabf3-68d6-4d07-abc0-199e3362521d](https://github.com/t-aswath/mdeditor/assets/119417646/904aa562-7b50-4a1a-9c2b-5f9f08be1a5f)
+
 # References For Dataset
 -The dataset used for training the model is available on  [![Kaggle](https://img.shields.io/badge/Kaggle-%23000.svg?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/)
