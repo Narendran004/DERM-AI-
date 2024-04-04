@@ -8,7 +8,11 @@
 DermAI is a machine learning project developed to predict skin diseases based on input images and provide solutions for further action. This project utilizes a convolutional neural network (CNN) trained on a dataset of skin disease images to make predictions.
 
 # Demonstration of the Project
- https://github.com/Vijay18003/DermAi/blob/main/DERM%20AI%20DEMO.mp4
+<video width="640" height="360" controls>
+  <source src=" https://github.com/Vijay18003/DermAi/blob/main/DERM%20AI%20DEMO.mp4" type="mp4">
+  Your browser does not support the video tag.
+</video>
+
  
 # Tech Stacks Used
 
