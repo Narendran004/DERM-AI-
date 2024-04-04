@@ -2,7 +2,6 @@
 [<img src="https://www.intel.com/content/dam/develop/public/us/en/images/admin/oneapi-logo-rev-4x3-rwd.png" width="50">](https://www.intel.com/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-%23000.svg?style=flat&logo=Streamlit&logoColor=white)](https://streamlit.io/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%23000.svg?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/)
 
 # DermAI: Skin Disease Prediction and Solutions
 
@@ -16,8 +15,6 @@ DermAI is a machine learning project developed to predict skin diseases based on
 - TensorFlow/Keras
 - Streamlit
 - Jupter Notebook
-# Dataset
--The dataset used for training the model is available on  [![Kaggle](https://img.shields.io/badge/Kaggle-%23000.svg?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/)
 
 # What DermAI does:
 
@@ -50,3 +47,5 @@ Overall, DermAI aims to assist individuals in early detection and management of 
 
 Overall, DermAI leverages the power of machine learning and image recognition technology to assist individuals in early detection and management of skin diseases. By providing timely and accurate predictions, along with actionable recommendations, DermAI aims to empower users to take proactive steps towards maintaining their skin health.
 
+# References For Dataset
+-The dataset used for training the model is available on  [![Kaggle](https://img.shields.io/badge/Kaggle-%23000.svg?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/)
